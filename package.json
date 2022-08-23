@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@nrwl/next": "^14.5.8",
+    "@nrwl/react": "^14.5.8",
     "nx": "^14.5.8"
   }
 }
